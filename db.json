@@ -1,19 +1,50 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "users": [
-    { "id": 1, "name": "Ollie", "profileImage": "https://picsum.photos/id/0/367/267" },
-    { "id": 1, "name": "Aaron", "profileImage": "https://picsum.photos/id/1003/367/267" },
-    { "id": 1, "name": "Leona", "profileImage": "https://picsum.photos/id/1015/367/267" }
-  ]
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "users": {
+        "users": [
+            {
+                "id": 1,
+                "name": "Ollie",
+                "profileImage": "https://picsum.photos/id/0/367/267"
+            },
+            {
+                "id": 1,
+                "name": "Aaron",
+                "profileImage": "https://picsum.photos/id/1003/367/267"
+            },
+            {
+                "id": 1,
+                "name": "Leona",
+                "profileImage": "https://picsum.photos/id/1015/367/267"
+            }
+        ]
+    }
 }
