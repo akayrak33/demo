@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    { "id": 1, "name": "Ollie", "profileImage": "https://picsum.photos/id/0/367/267" },
+    { "id": 1, "name": "Aaron", "profileImage": "https://picsum.photos/id/1003/367/267" },
+    { "id": 1, "name": "Leona", "profileImage": "https://picsum.photos/id/1015/367/267" }
+  ]
 }
