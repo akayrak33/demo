@@ -46,5 +46,21 @@
                 "profileImage": "https://picsum.photos/id/1015/367/267"
             }
         ]
-    }
+    },
+        "user": [
+            {
+                "id": 1,
+                "user" : {
+                    "id": 1,
+                    "name": "Elon",
+                    "surname": "Blue",
+                    "profileImage": "https://picsum.photos/id/1003/367/267",
+                    "number": "05321234567",
+                    "address": {
+                        "county": "Istanbul",
+                        "district": "Bostanci"
+                    }
+                }
+            }
+        ]
 }
