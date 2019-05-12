@@ -63,5 +63,8 @@
                     }
                 }
             }
-        ]
+        ],
+    "login" : {
+        "cookie" = "some_random_key"
+    }
 }
